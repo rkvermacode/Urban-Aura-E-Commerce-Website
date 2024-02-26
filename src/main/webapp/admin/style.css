@@ -1,0 +1,20 @@
+.body {
+	background-color: red;
+}
+
+.bg-custom {
+	background-color: #303f9f;
+}
+
+.navbar .nav-item:hover .nav-link {
+	background-color: white;
+	color: #303f9f;
+	border-radius: 5px
+}
+
+.custom-carousel {
+	width: 100%;
+	height: 80vh;
+	background-size: cover;
+	background-repeat: no-repeat;	
+}
